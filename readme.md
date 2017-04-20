@@ -1,6 +1,6 @@
 # Assignment Solution:
 
-##Step 1
+## Step 1
 
 First of all i made a pivot table, where i store the product and respective price corresponding to the Userid like this format:
 
@@ -50,7 +50,9 @@ Example data format: for example user gives products (In command line arguments)
       }
 }
 
-## Step 2 our final list will store the data in this format:   {user_id : sum}
+## Step 2 
+
+our final list will store the data in this format:   {user_id : sum}
 
 
 
@@ -83,7 +85,8 @@ Example data format: for example user gives products (In command line arguments)
 In above i'm making the list of tuples where i'll store the sum corresponding to the User_id, then will pick the min value from that(only if the user given(input) products exists in the existing data.csv )
 
 
-##Step 3
+## Step 3
+
 In the final Step i'll find the minimum value from the list based of value (key,value). 
 
 
