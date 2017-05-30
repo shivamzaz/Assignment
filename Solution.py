@@ -2,8 +2,9 @@ import csv
 
 '''
 	
-	Initial path direcotry for the importing the data
-	@sg
+	@shivamzaz
+	Initial path direcotry for the importing the data	
+
 '''
 
 path = ''
