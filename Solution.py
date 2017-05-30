@@ -1,9 +1,9 @@
 import csv
 
 '''
-
+	
 	Initial path direcotry for the importing the data
-
+	@sg
 '''
 
 path = ''
